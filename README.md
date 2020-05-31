@@ -1,7 +1,11 @@
 # Mystery-RPG
+
 A 2D game built from scratch in Java using the JavaFx Framework.
 
+<p align="center"><img src="GameFiles\SaveFiles\saveSlotImage_2.png" width="800"></p>
+
 # Project backstory
+
 This game was my project for my university course software design in Java where i first encountered object oriented programming
 after only having done some simple C en VB.Net stuff.
 
