@@ -1,0 +1,5 @@
+<//dialogue><title:Violet:><id:0><text:Do you think its true what
+they are saying?><jump:1><dialogue//>
+<//response><id:1><text: Honestly I'm not sure yet.><jump:2><response//>
+<//dialogue><title:Violet:><id:2><text:I never liked gossip,
+but i would like to leave this house...><jump:0><dialogue//>

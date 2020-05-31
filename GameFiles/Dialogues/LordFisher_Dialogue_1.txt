@@ -1,0 +1,9 @@
+<//dialogue><title:Lord Fisher:><id:0><text:I must know what happend to Jeffrey.
+Did you see anything strange today?
+Anybody acting weird?><jump:1,2><dialogue//>
+<//response><id:1><text: No nothing><jump:3><response//>
+<//response><id:2><text: I don't think so><jump:4><response//>
+<//dialogue><title:Lord Fisher:><id:3><text:Well if you do please let me know><jump:0><dialogue//>
+<//dialogue><title:Lord Fisher:><id:4><text:He met with you in the forest today didn't he?><jump:5><dialogue//>
+<//response><id:5><text:Yes thats where he presented the invitation to me><jump:6><response//>
+<//dialogue><title:Lord Fisher:><id:6><text:Such a good boy, i could always count on him><jump:0><dialogue//>

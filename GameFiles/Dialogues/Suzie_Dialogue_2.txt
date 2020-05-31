@@ -1,0 +1,8 @@
+<//dialogue><title:Suzie:><id:0><text:What is all this commotion?
+i am trying to find my calm.><jump:1,2><dialogue//>
+<//response><id:1><text: Nothing><jump:0><response//>
+<//response><id:2><text: Everybody is pointing to Lord Fisher as the killer><jump:3><response//>
+<//dialogue><title:Suzie:><id:3><text:The man who locked us in here!?
+Ahhhhhhhhhhhhhhhhhhhh!><jump:4><dialogue//>
+<//response><id:4><text: Guess i should not have said that.><jump:5><response//>
+<//dialogue><title:Suzie:><id:5><text:*heavy breathing*><jump:0><dialogue//>

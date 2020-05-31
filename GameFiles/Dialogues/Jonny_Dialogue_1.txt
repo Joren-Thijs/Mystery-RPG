@@ -1,0 +1,11 @@
+<//dialogue><title:Jonny:><id:0><text:I can't believe what just happened!
+That poor boy was poisoned.
+That could have been any of us!><jump:1,2><dialogue//>
+<//response><id:1><text: Calm down><jump:3><response//>
+<//response><id:2><text: Do you know what happend?><jump:4><response//>
+<//dialogue><title:Jonny:><id:3><text:Calm down? I am locked in a 
+house with a murderer, maybe i am next?><jump:2><dialogue//>
+<//dialogue><title:Jonny:><id:4><text:No i just got invited here like everyone else.
+I did hear some gossip about Lord Fisher
+being mad at him for breaking something expensive.
+Sofie told me about it.><jump:0><dialogue//>

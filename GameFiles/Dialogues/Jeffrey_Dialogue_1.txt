@@ -1,0 +1,11 @@
+<//dialogue><title:Stranger:><id:0><text:Hello Sam,
+I have a message for you!><jump:1,2><dialogue//>
+<//response><id:1><text: A message? from who?><jump:3><response//>
+<//response><id:2><text: Read it to me please.><jump:5><response//>
+<//dialogue><title:Messenger:><id:3><text:From Lord Fisher!><jump:4><dialogue//>
+<//response><id:4><text: Lets hear it.><jump:5><response//>
+<//dialogue><title:Messenger:><id:5><text:Uhum, Lord Fisher would like to invite you
+and your fellow townsmen to
+a special dinner at Villa Fisher
+hosted by the gracefull Lord and his lovely wife
+Lady Fisher. You will be expected at 8 pm!><jump:0><dialogue//>

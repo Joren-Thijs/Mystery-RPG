@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Game Cluedo
+${licensePrefix}
+${licensePrefix} @Author Joren Thijs and Sam Vanhove
+<#if licenseLast??>
+${licenseLast}
+</#if>

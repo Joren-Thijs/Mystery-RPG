@@ -1,0 +1,14 @@
+<//dialogue><title:Butler:><id:0><text:Poor master Fisher,
+He is completely in shock.
+Jeffrey was like a son to him
+they might have had some differences lately...
+><jump:1,2><dialogue//>
+<//response><id:1><text: Do you know what happened?><jump:3><response//>
+<//response><id:2><text: Where they fighting?><jump:4><response//>
+<//dialogue><title:Butler:><id:3><text:No i don't
+one moment we were having a toast to the
+100th anniversary of the masters villa,
+the next moment Jeffrey was collapsing><jump:2><dialogue//>
+<//dialogue><title:Butler:><id:4><text:The master was upset with him for breaking an
+exotic artifact he brought back from one of his journeys
+it was priceless><jump:0><dialogue//>

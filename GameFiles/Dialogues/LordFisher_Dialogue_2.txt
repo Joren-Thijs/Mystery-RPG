@@ -1,0 +1,11 @@
+<//dialogue><title:Lord Fisher:><id:0><text:Everybody seems to suspect me now
+but i didn't hurt Jeffrey
+he was like a son to me
+go ahead and look you will
+find the real murderer.><jump:1,2><dialogue//>
+<//response><id:1><text: I don't doubt it.><jump:3><response//>
+<//response><id:2><text: Maybe><jump:4><response//>
+<//dialogue><title:Lord Fisher:><id:3><text:Good boy><jump:0><dialogue//>
+<//dialogue><title:Lord Fisher:><id:4><text:Go and see for yourself><jump:5><dialogue//>
+<//response><id:5><text:I will.><jump:6><response//>
+<//dialogue><title:Lord Fisher:><id:6><text:Hmmf><jump:0><dialogue//>

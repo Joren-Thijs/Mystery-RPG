@@ -1,0 +1,108 @@
+//GameCharacters
+<//GameCharacter><name:Butler><id:1><X:785><Y:325><GameCharacter//>
+
+//GameStoryObjects
+<//GameStoryObject><name:Door to second floor><id:0><X:195><Y:545><GameStoryObject//>
+
+//GameObjects
+
+//Windows
+<//GameObject><name:Window><id:21><X:400><Y:90><width:54><height:84><text:It looks nice outside><GameObject//>
+<//GameObject><name:Window><id:21><X:650><Y:90><width:54><height:84><text:It looks nice outside><GameObject//>
+<//GameObject><name:Window><id:21><X:905><Y:90><width:54><height:84><text:It looks nice outside><GameObject//>
+
+<//GameObject><name:Window><id:21><X:1225><Y:90><width:54><height:84><text:It looks nice outside><GameObject//>
+
+//Dinning room:
+//Windows
+<//GameObject><name:Window><id:21><X:1675><Y:90><width:54><height:84><text:It looks nice outside><GameObject//>
+<//GameObject><name:Window><id:21><X:1930><Y:90><width:54><height:84><text:It looks nice outside><GameObject//>
+<//GameObject><name:Window><id:21><X:2185><Y:90><width:54><height:84><text:It looks nice outside><GameObject//>
+
+//Dining table
+<//GameObject><name:Big Table><id:53><X:1952><Y:350><width:170><height:110><text:Thats a big table><GameObject//>
+
+//Chairs
+<//GameObject><name:Red Chair Up><id:54><X:1970><Y:490><width:40><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Red Chair Up><id:54><X:2070><Y:490><width:40><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Red Chair Down><id:55><X:1970><Y:330><width:40><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Red Chair Down><id:55><X:2070><Y:330><width:40><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Red Chair Left><id:56><X:2130><Y:375><width:40><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Red Chair Left><id:56><X:2130><Y:425><width:40><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Red Chair Right><id:57><X:1905><Y:375><width:40><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Red Chair Right><id:57><X:1905><Y:425><width:40><height:32><text:I dont feel like sitting right now><GameObject//>
+
+//Cabinets
+<//GameObject><name:Cabinet Cutlery1><id:43><X:2020><Y:100><width:128><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Cabinet Pots1><id:41><X:1770><Y:100><width:128><height:128><text:Nothing here><GameObject//>
+
+//Scenery
+<//GameObject><name:Plant1><id:49><X:1550><Y:500><width:32><height:32><text:It smells nice><GameObject//>
+
+//HallWay
+<//GameObject><name:Painting Moon><id:36><X:1620><Y:740><width:115><height:70><text:Its a painting of the moon. I dreamt about being an astronaut when i was litlle><GameObject//>
+<//GameObject><name:Small Table1><id:47><X:1400><Y:170><width:64><height:32><text:Thats a nice table><GameObject//>
+<//GameObject><name:Plant2><id:50><X:1110><Y:1225><width:32><height:32><text:It smells nice><GameObject//>
+<//GameObject><name:Plant2><id:50><X:915><Y:1225><width:32><height:32><text:It smells nice><GameObject//>
+<//GameObject><name:Painting Forest><id:37><X:525><Y:540><width:115><height:70><text:Its a painting of a forest, i love being outside in nature><GameObject//>
+<//GameObject><name:Painting Flowers><id:38><X:80><Y:540><width:44><height:80><text:What a beautifull painting><GameObject//>
+<//GameObject><name:Plant3><id:51><X:345><Y:645><width:32><height:32><text:It smells nice><GameObject//>
+<//GameObject><name:Plant4><id:52><X:855><Y:2300><width:32><height:32><text:It smells nice><GameObject//>
+<//GameObject><name:Painting Man><id:39><X:400><Y:2205><width:44><height:75><text:A painting of Lord Fisher He looks so much younger.><GameObject//>
+<//GameObject><name:Plant3><id:51><X:1875><Y:2450><width:32><height:32><text:It smells nice><GameObject//>
+
+//Room next to the stairs
+<//GameObject><name:Cabinet Pots1><id:41><X:490><Y:100><width:128><height:128><text:Nothing here><GameObject//>
+
+//Library
+<//GameObject><name:Book Shelves><id:23><X:105><Y:915><width:320><height:128><text:They sure have a lot of books><GameObject//>
+<//GameObject><name:Couch Up><id:30><X:250><Y:1300><width:110><height:44><text:I dont feel like sitting right now.><GameObject//>
+<//GameObject><name:Couch Right><id:33><X:145><Y:1150><width:64><height:90><text:This couch looks comfy.><GameObject//>
+<//GameObject><name:Small Table2><id:48><X:700><Y:1000><width:64><height:32><text:Probably not a good time to start drinking><GameObject//>
+
+//Bottom left room
+<//GameObject><name:Cabinet Cutlery2><id:44><X:550><Y:1500><width:128><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Painting Flowers><id:38><X:465><Y:1500><width:44><height:80><text:What a beautifull painting><GameObject//>
+<//GameObject><name:Table Vertical><id:34><X:760><Y:1800><width:60><height:110><text:Thats a nice table><GameObject//>
+
+//Bottom leftest room
+<//GameObject><name:Couch Down><id:31><X:135><Y:1600><width:110><height:44><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Small Table2><id:48><X:295><Y:1600><width:64><height:32><text:Probably not a good time to start drinking><GameObject//>
+<//GameObject><name:Couch Left><id:32><X:315><Y:1765><width:64><height:90><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Table Vertical><id:34><X:70><Y:1835><width:60><height:110><text:Thats a nice table><GameObject//>
+<//GameObject><name:Plant3><id:51><X:75><Y:1695><width:32><height:32><text:It smells nice><GameObject//>
+
+//Crossing room
+<//GameObject><name:Painting Forest><id:37><X:1315><Y:2075><width:115><height:70><text:Its a painting of a forest, i love being outside in nature><GameObject//>
+<//GameObject><name:Couch Up><id:30><X:1315><Y:2455><width:110><height:44><text:I dont feel like sitting right now><GameObject//>
+
+//Right side top left
+<//GameObject><name:Cabinet Food2><id:46><X:1240><Y:1120><width:128><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Cabinet Cutlery2><id:44><X:1390><Y:1120><width:128><height:128><text:Nothing here><GameObject//>
+
+//Right side top right
+<//GameObject><name:Cabinet Pots1><id:41><X:2010><Y:1110><width:128><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Cabinet Cutlery1><id:43><X:2190><Y:1110><width:128><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Small Table2><id:48><X:2340><Y:1200><width:64><height:32><text:Thats a nice table><GameObject//>
+<//GameObject><name:Table Horizontal><id:35><X:2060><Y:1420><width:130><height:60><text:Thats a nice table><GameObject//>
+
+//Right side middle left
+<//GameObject><name:Table Horizontal><id:35><X:1280><Y:1580><width:130><height:60><text:Thats a nice table><GameObject//>
+<//GameObject><name:Chair Up><id:26><X:1330><Y:1640><width:32><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Plant1><id:49><X:1490><Y:1700><width:32><height:32><text:It smells nice><GameObject//>
+<//GameObject><name:Couch Right><id:33><X:1225><Y:1785><width:64><height:90><text:I dont feel like sitting right now><GameObject//>
+
+//Right side middle right
+<//GameObject><name:Small Table2><id:48><X:2100><Y:1650><width:64><height:32><text:Thats a nice table><GameObject//>
+<//GameObject><name:Plant2><id:50><X:2300><Y:1650><width:32><height:32><text:It smells nice><GameObject//>
+<//GameObject><name:Table Vertical><id:34><X:2360><Y:1690><width:60><height:110><text:Thats a nice table><GameObject//>
+<//GameObject><name:Chair Up><id:26><X:2380><Y:1810><width:32><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Chair Right><id:29><X:2315><Y:1750><width:32><height:32><text:I dont feel like sitting right now><GameObject//>
+
+//Right side bottom right
+<//GameObject><name:Cabinet Pots1><id:41><X:1995><Y:1950><width:128><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Cabinet Cutlery1><id:43><X:2145><Y:1950><width:128><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Cabinet Food1><id:45><X:2295><Y:1950><width:128><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Table Vertical><id:34><X:2165><Y:2215><width:60><height:110><text:Thats a nice table><GameObject//>
+<//GameObject><name:Table Horizontal><id:35><X:2250><Y:2428><width:130><height:60><text:Thats a nice table><GameObject//>
+<//GameObject><name:Small Table1><id:47><X:1995><Y:2440><width:64><height:32><text:Thats a nice table><GameObject//>

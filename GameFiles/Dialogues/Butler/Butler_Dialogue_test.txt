@@ -1,0 +1,9 @@
+<//dialogue><title:Butler><id:0><text:Hello player, your new
+dialogue system is working!
+Kind regards the Butler.><jump:1,2><dialogue//>
+<//response><id:1><text: Thank You!><jump:3><response//>
+<//response><id:2><text: Go Away!><jump:4><response//>
+<//dialogue><title:Butler><id:3><text:Your Welcome1!
+Enjoy your stay!><jump:0><dialogue//>
+<//dialogue><title:Butler><id:4><text:Your Welcome2!
+Enjoy your stay!><jump:0><dialogue//>

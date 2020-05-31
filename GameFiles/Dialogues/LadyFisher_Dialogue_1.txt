@@ -1,0 +1,12 @@
+<//dialogue><title:Lady Fisher:><id:0><text:Oh my, that poor boy
+I can't believe he is gone.
+He was like a son to us.><jump:1,2><dialogue//>
+<//response><id:1><text: Do you know what happened?><jump:3><response//>
+<//response><id:2><text: It's hard losing a close friend><jump:4><response//>
+<//dialogue><title:Lady Fisher:><id:3><text:No my husband has been very
+excited for this dinner.
+He and Jeffrey had been fighting a little bit lately but
+he would never hurt him><jump:0><dialogue//>
+<//dialogue><title:Lady Fisher:><id:4><text:What do you know about loss?><jump:5><dialogue//>
+<//response><id:5><text: I lost my brother when i was 8 years old. He got a fever, it only got worse><jump:6><response//>
+<//dialogue><title:Lady Fisher:><id:6><text:I'm sorry young man><jump:1><dialogue//>

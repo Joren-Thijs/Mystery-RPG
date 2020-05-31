@@ -1,0 +1,12 @@
+<//dialogue><title:Lady Fisher:><id:0><text:Did you find something that points to my husband?,
+I refuse to believe he's a murderer><jump:1,2><dialogue//>
+<//response><id:1><text: I found something><jump:3><response//>
+<//response><id:2><text: Why do you believe he is innocent?><jump:4><response//>
+<//dialogue><title:Lady Fisher:><id:3><text:I need to see it.><jump:5><dialogue//>
+<//dialogue><title:Lady Fisher:><id:4><text:I have known him for so long,
+He's a good man, he would never do something like that><jump:1><dialogue//>
+<//response><id:5><text: I found this><jump:6><response//>
+<//dialogue><title:Lady Fisher:><id:6><text:That can't be, could i be this wrong?
+You need to look for more evidence,
+Here take this key, it will allow you to go upstairs
+I am confident you will find the real murderer><jump:0><dialogue//>

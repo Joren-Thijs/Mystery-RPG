@@ -1,0 +1,5 @@
+<//dialogue><title:Sofie:><id:0><text:I refuse to believe what everyone is saying
+Jeffrey was like a son to him!><jump:1,2><dialogue//>
+<//response><id:1><text: I'm only looking answers><jump:2><response//>
+<//dialogue><title:Sofie:><id:2><text:I don't like being here either
+but i refuse to believe you><jump:0><dialogue//>

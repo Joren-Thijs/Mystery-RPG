@@ -1,0 +1,19 @@
+CurrentObjectivesID:11
+CurrentWorld:3
+Player:
+Position:
+X:746.799999999996
+Y:1309.9999999999875
+Direction:
+LEFT
+IsLookingAtInventory:FALSE
+NoteIndex:1
+Inventory:
+Items:
+{"name":"StairWay key","id":0}
+{"name":"Master bedroom key","id":9}
+{"name":"Ville of poison","id":8}
+{"name":"Brown cuffling","id":10}
+Notes:
+{"title":"Note:","text":"I found the key to the master bedroom,\nnow we can find out the truth.","name":"I found the key","id":9}
+{"title":"Note:","text":"I found a ville of poison in Lord\nFishers nightstand. This points to \nhim as the murderer. except I\nalso found this brown cuffling\nwich does not match the\nblack ones he is wearing\n\nI am not sure about this","name":"Poison note","id":8}

@@ -1,0 +1,4 @@
+Messenger:;
+Hello player, your new
+dialogue system is working!
+Kind regards the Mesenger.

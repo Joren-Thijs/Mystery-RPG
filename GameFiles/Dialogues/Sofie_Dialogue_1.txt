@@ -1,0 +1,12 @@
+<//dialogue><title:Sofie:><id:0><text:I can't believe this is happening
+I knew Jeffrey since we were little><jump:1,2><dialogue//>
+<//response><id:1><text: Where u close?><jump:3><response//>
+<//response><id:2><text: Do you know what happened?><jump:4><response//>
+<//dialogue><title:Sofie:><id:3><text:He was like a brother to me.><jump:2><dialogue//>
+<//dialogue><title:Sofie:><id:4><text:No, he was all excited this morning
+about getting to invite everyone to this special dinner
+and now he is gone...><jump:5><dialogue//>
+<//response><id:5><text: Did he have an argument with anyone?><jump:6><response//>
+<//dialogue><title:Sofie:><id:6><text:He had been complaining a couple of weeks
+about getting into fights with Lord Fisher
+but nothing serious.><jump:0><dialogue//>

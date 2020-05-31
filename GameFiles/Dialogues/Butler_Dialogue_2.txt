@@ -1,0 +1,5 @@
+<//dialogue><title:Butler:><id:0><text:Everybody is saying my master did it.
+I refuse to believe it.><jump:1><dialogue//>
+<//response><id:1><text: There is no hiding from the truth><jump:2><response//>
+<//dialogue><title:Butler:><id:2><text:I have been his servant for over fifty years
+He would never do something like that><jump:0><dialogue//>

@@ -1,0 +1,6 @@
+Three 250 500;
+Three 300 350;
+Rock 550 600;
+Zombie 600 750;
+Three 500 800;
+End

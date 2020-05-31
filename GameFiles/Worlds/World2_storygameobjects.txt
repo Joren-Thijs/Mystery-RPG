@@ -1,0 +1,4 @@
+Closet 250 500;
+Closet 300 350;
+Closet 500 800;
+End

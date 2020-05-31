@@ -1,0 +1,4 @@
+<//dialogue><title:Jonny:><id:0><text:Everyone thinks lord
+Fisher poisoned him, but he is the one holding us here!><jump:1><dialogue//>
+<//response><id:1><text:He can't keep the doors locked forever><jump:2><response//>
+<//dialogue><title:Jonny:><id:2><text:I hope you are right><jump:0><dialogue//>

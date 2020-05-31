@@ -1,0 +1,22 @@
+<//dialogue><title:Lord Fisher:><id:0><text:Did you find out who did it?
+Where you able to clear my name?><jump:1><dialogue//>
+<//response><id:1><text: I know who poisoned Jeffrey><jump:2><response//>
+
+<//dialogue><title:Lord Fisher:><id:2><text:Well tell us who did it?><jump:3><dialogue//>
+<//response><id:3><text: The butler did it!><jump:4><response//>
+<//dialogue><title:Lord Fisher:><id:4><text:What!? Henry? thats impossible!><jump:5><dialogue//>
+<//response><id:5><text: It's true><jump:6><response//>
+<//dialogue><title:Lord Fisher:><id:6><text:But why Henry?><jump:7><dialogue//>
+<//response><id:7><text: Go on Henry, tell him.><jump:8><response//>
+<//dialogue><title:Henry:><id:8><text:I'm afraid its true sir.
+Jeffrey caught me stealing money from you.
+I was gonna use it to find help for my son.
+I begged him not to tell you, I begged him to understand
+but he wanted to regain your favor after 
+breaking that artifact. So i had no choice.
+I'm sorry><jump:9><dialogue//>
+<//response><id:9><text: He tried to frame you by placing the poison in your nightstand, but he lost a cuffling><jump:10><response//>
+<//dialogue><title:Lord Fisher:><id:10><text:I'm so sorry Henry,
+I didn't mean for you to resort to this...
+Your son, there is simply no cure...
+I'm sorry...><jump:0><dialogue//>

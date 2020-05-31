@@ -1,0 +1,81 @@
+//GameObjects
+
+//GameCharacters
+//Player id = 0
+<//GameCharacter><name:Butler><id:1><X:300><Y:300><GameCharacter//>
+<//GameCharacter><name:Sofie><id:2><X:300><Y:300><GameCharacter//>
+<//GameCharacter><name:Suzie><id:3><X:300><Y:300><GameCharacter//>
+<//GameCharacter><name:Jonny><id:4><X:300><Y:300><GameCharacter//>
+<//GameCharacter><name:Violet><id:5><X:300><Y:300><GameCharacter//>
+<//GameCharacter><name:Lady Fisher><id:6><X:300><Y:300><GameCharacter//>
+<//GameCharacter><name:Lord Fisher><id:7><X:300><Y:300><GameCharacter//>
+<//GameCharacter><name:Jeffrey><id:8><X:300><Y:300><GameCharacter//>
+
+//GameStoryObjects
+<//GameStoryObject><name:Door to second floor><id:0><X:195><Y:545><text:The door is locked><GameStoryObject//>
+<//GameStoryObject><name:Door to bottom floor><id:1><X:195><Y:545><text:The door is locked><GameStoryObject//>
+<//GameStoryObject><name:Door to master bedroom><id:2><X:250><Y:400><text:The door is locked><GameStoryObject//>
+<//GameStoryObject><name:Door to storage room><id:3><X:250><Y:400><text:The door is locked><GameStoryObject//>
+<//GameStoryObject><name:Cabinet1><id:4><X:250><Y:400><text:Nothing here><GameStoryObject//>
+<//GameStoryObject><name:Cabinet2><id:5><X:250><Y:400><text:Nothing here><GameStoryObject//>
+<//GameStoryObject><name:Cabinet3><id:6><X:250><Y:400><text:Nothing here><GameStoryObject//>
+<//GameStoryObject><name:Cabinet4><id:7><X:250><Y:400><text:Nothing here><GameStoryObject//>
+<//GameStoryObject><name:Night Stand><id:8><X:250><Y:400><text:Nothing here><GameStoryObject//>
+<//GameStoryObject><name:Book Case><id:9><X:250><Y:400><text:Just more books><GameStoryObject//>
+
+//GameObjects
+//GameStoryObjects
+<//GameObject><name:Door to second floor><id:0><X:195><Y:545><width:60><height:90><text:The door is locked><GameObject//>
+<//GameObject><name:Door to bottom floor><id:1><X:195><Y:545><width:60><height:90><text:The door is locked><GameObject//>
+<//GameObject><name:Door1><id:2><X:250><Y:400><width:60><height:90><text:The door is locked><GameObject//>
+<//GameObject><name:Door1><id:3><X:250><Y:400><width:60><height:90><text:The door is locked><GameObject//>
+<//GameObject><name:Cabinet1><id:4><X:250><Y:400><width:64><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Cabinet2><id:5><X:250><Y:400><width:54><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Cabinet3><id:6><X:250><Y:400><width:64><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Cabinet4><id:7><X:250><Y:400><width:64><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Night Stand><id:8><X:250><Y:400><width:50><height:50><text:Nothing here><GameObject//>
+<//GameObject><name:Book Case><id:9><X:250><Y:400><width:64><height:128><text:Just more books><GameObject//>
+
+
+//Indoor
+<//GameObject><name:Invisible Wall><id:20><X:250><Y:400><width:64><height:64><text:I cant go here><GameObject//>
+<//GameObject><name:Window><id:21><X:250><Y:400><width:54><height:84><text:It looks nice outside><GameObject//>
+<//GameObject><name:Window Draped><id:22><X:250><Y:400><width:54><height:84><text:It looks nice outside><GameObject//>
+<//GameObject><name:Book Shelves><id:23><X:250><Y:400><width:320><height:128><text:They sure have a lot of books><GameObject//>
+<//GameObject><name:Single Bed><id:24><X:250><Y:400><width:75><height:95><text:Looks comfy><GameObject//>
+<//GameObject><name:Double Bed><id:25><X:250><Y:400><width:100><height:95><text:Looks comfy><GameObject//>
+<//GameObject><name:Chair Up><id:26><X:250><Y:400><width:32><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Chair Down><id:27><X:250><Y:400><width:32><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Chair Left><id:28><X:250><Y:400><width:32><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Chair Right><id:29><X:250><Y:400><width:32><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Couch Up><id:30><X:250><Y:400><width:110><height:44><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Couch Down><id:31><X:250><Y:400><width:110><height:44><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Couch Left><id:32><X:250><Y:400><width:64><height:90><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Couch Right><id:33><X:250><Y:400><width:64><height:90><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Table Vertical><id:34><X:250><Y:400><width:60><height:110><text:Thats a nice table><GameObject//>
+<//GameObject><name:Table Horizontal><id:35><X:250><Y:400><width:130><height:60><text:Thats a nice table><GameObject//>
+<//GameObject><name:Painting Moon><id:36><X:250><Y:400><width:115><height:70><text:Its a painting of the moon, i dreamt about being an astronaut when i was litlle><GameObject//>
+<//GameObject><name:Painting Forest><id:37><X:250><Y:400><width:115><height:70><text:Its a painting of a forest, i love being outside in nature><GameObject//>
+<//GameObject><name:Painting Flowers><id:38><X:250><Y:400><width:44><height:80><text:What a beautifull painting><GameObject//>
+<//GameObject><name:Painting Man><id:39><X:250><Y:400><width:44><height:75><text:A painting of Lord Fisher. He looks so much younger.><GameObject//>
+<//GameObject><name:Painting Woman><id:40><X:250><Y:400><width:44><height:75><text:A painting of Lady Fisher. She does'nt look much younger.><GameObject//>
+<//GameObject><name:Cabinet Pots1><id:41><X:250><Y:400><width:128><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Cabinet Pots2><id:42><X:250><Y:400><width:128><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Cabinet Cutlery1><id:43><X:250><Y:400><width:128><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Cabinet Cutlery2><id:44><X:250><Y:400><width:128><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Cabinet Food1><id:45><X:250><Y:400><width:128><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Cabinet Food2><id:46><X:250><Y:400><width:128><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Small Table1><id:47><X:250><Y:400><width:64><height:32><text:Thats a nice table><GameObject//>
+<//GameObject><name:Small Table2><id:48><X:250><Y:400><width:64><height:32><text:Thats a nice table><GameObject//>
+<//GameObject><name:Plant1><id:49><X:250><Y:400><width:32><height:32><text:It smells nice><GameObject//>
+<//GameObject><name:Plant2><id:50><X:250><Y:400><width:32><height:32><text:It smells nice><GameObject//>
+<//GameObject><name:Plant3><id:51><X:250><Y:400><width:32><height:32><text:It smells nice><GameObject//>
+<//GameObject><name:Plant4><id:52><X:250><Y:400><width:32><height:32><text:It smells nice><GameObject//>
+<//GameObject><name:Big Table><id:53><X:250><Y:400><width:170><height:110><text:Thats a big table><GameObject//>
+<//GameObject><name:Red Chair Up><id:54><X:250><Y:400><width:40><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Red Chair Down><id:55><X:250><Y:400><width:40><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Red Chair Left><id:56><X:250><Y:400><width:40><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Red Chair Right><id:57><X:250><Y:400><width:40><height:32><text:I dont feel like sitting right now><GameObject//>
+
+//Outside
+<//GameObject><name:Three1><id:60><X:250><Y:400><width:32><height:44><text:><GameObject//>

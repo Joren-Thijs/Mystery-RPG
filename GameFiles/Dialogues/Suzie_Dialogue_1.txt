@@ -1,0 +1,7 @@
+<//dialogue><title:Suzie:><id:0><text:That was so scary!><jump:1,2><dialogue//>
+<//response><id:1><text: Are you alright?><jump:3><response//>
+<//response><id:2><text: Do you know what happened?><jump:4><response//>
+<//dialogue><title:Suzie:><id:3><text:Not really thats why i'm alone here
+i need to catch my breath and collect my thoughts><jump:2><dialogue//>
+<//dialogue><title:Suzie:><id:4><text:No i am just a guest here just like you.
+I really want to go home!><jump:0><dialogue//>

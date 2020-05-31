@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.effect.Blend?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" fx:id="anchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="game.controller.StartUpViewController">
+    <children>
+      <Rectangle fx:id="backGroundRect" arcHeight="5.0" arcWidth="5.0" fill="#303030" height="400.0" stroke="BLACK" strokeType="INSIDE" width="500.0" />
+        <Button fx:id="startBtn" layoutX="171.0" layoutY="292.0" onAction="#startBtnClicked" text="Start Game!" textAlignment="CENTER" AnchorPane.leftAnchor="171.0" AnchorPane.rightAnchor="171.4" AnchorPane.topAnchor="292.0">
+         <font>
+            <Font size="24.0" />
+         </font>
+         <effect>
+            <Blend />
+         </effect></Button>
+      <ComboBox fx:id="resolutionComboBox" layoutX="167.0" layoutY="212.0" prefHeight="26.0" prefWidth="167.0" promptText="Resolution" AnchorPane.bottomAnchor="161.6" AnchorPane.leftAnchor="167.0" AnchorPane.rightAnchor="165.8" AnchorPane.topAnchor="212.0" />
+      <Text fx:id="text" fill="#fffcfc" layoutX="132.0" layoutY="176.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Please select a preffered resoltion:" wrappingWidth="236.14605712890625" AnchorPane.bottomAnchor="220.8212890625" AnchorPane.leftAnchor="132.0" AnchorPane.rightAnchor="132.0" AnchorPane.topAnchor="162.4208984375">
+         <font>
+            <Font name="Arial" size="15.0" />
+         </font></Text>
+      <Text fill="WHITE" layoutX="20.0" layoutY="80.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome to Cluedo the student rip-off!" wrappingWidth="473.3367385864258" AnchorPane.bottomAnchor="319.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="7.0">
+         <font>
+            <Font name="Italic" size="18.0" />
+         </font>
+      </Text>
+      <CheckBox fx:id="fullScreenCheckBox" layoutX="359.0" layoutY="214.0" mnemonicParsing="false" text="Full-Screen" textFill="WHITE">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </CheckBox>
+    </children>
+</AnchorPane>

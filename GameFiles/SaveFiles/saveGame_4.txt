@@ -1,0 +1,12 @@
+CurrentObjectivesID:0
+CurrentWorld:0
+Player:
+Position:
+X:300.0
+Y:360.0
+Direction:
+DOWN
+IsLookingAtInventory:FALSE
+NoteIndex:0
+Inventory:
+EMPTY

@@ -1,0 +1,13 @@
+<//dialogue><title:Lord Fisher:><id:0><text:Oh heavens!
+What happend?
+Jeffrey!
+He's been poisoned!
+Poor Jeffrey who could have done this?
+What monster could...
+do something like this
+He was such a sweet boy...
+Nobody leaves!
+until i know what happend here!
+until then, you ara all suspects!
+I want answers.
+><jump:0><dialogue//>

@@ -1,0 +1,5 @@
+<//dialogue><title:Violet:><id:0><text:I wanna know what happened.><jump:1,2><dialogue//>
+<//response><id:1><text: Why are you out here?><jump:3><response//>
+<//response><id:2><text: Did you see anything?><jump:4><response//>
+<//dialogue><title:Violet:><id:3><text:This painting, it calms me><jump:2><dialogue//>
+<//dialogue><title:Violet:><id:4><text:No, i'm just a guest here><jump:0><dialogue//>

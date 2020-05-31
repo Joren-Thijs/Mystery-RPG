@@ -1,0 +1,4 @@
+<//dialogue><title:Lady Fisher:><id:0><text:I refuse to believe my husband
+ could do something like this><jump:1><dialogue//>
+<//response><id:1><text: I am only looking for answers><jump:2><response//>
+<//dialogue><title:Lady Fisher:><id:2><text:And i refuse.><jump:0><dialogue//>

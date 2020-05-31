@@ -1,0 +1,57 @@
+//GameCharacters
+//<//GameCharacter><name:Butler><id:1><X:250><Y:300><GameCharacter//>
+
+//GameStoryObjects
+<//GameStoryObject><name:Door to bottom floor><id:1><X:195><Y:675><GameStoryObject//>
+
+//GameObjects
+
+//Windows
+<//GameObject><name:Window><id:21><X:460><Y:90><width:54><height:84><text:It looks nice outside><GameObject//>
+<//GameObject><name:Window><id:21><X:845><Y:90><width:54><height:84><text:It looks nice outside><GameObject//>
+<//GameObject><name:Window><id:21><X:1358><Y:90><width:54><height:84><text:It looks nice outside><GameObject//>
+
+//Hallway
+<//GameObject><name:Painting Forest><id:37><X:995><Y:665><width:115><height:70><text:Its a painting of a forest, i love being outside in nature><GameObject//>
+<//GameObject><name:Plant2><id:50><X:1100><Y:1045><width:32><height:32><text:It smells nice><GameObject//>
+<//GameObject><name:Painting Woman><id:40><X:530><Y:670><width:44><height:75><text:A painting of Lady Fisher. She does'nt look much younger.><GameObject//>
+
+//Master Bedroom
+<//GameObject><name:Double Bed><id:25><X:655><Y:170><width:100><height:95><text:Looks comfy><GameObject//>
+<//GameObject><name:Night Stand><id:8><X:760><Y:170><width:50><height:50><text:Nothing here><GameObject//>
+<//GameObject><name:Night Stand><id:8><X:600><Y:170><width:50><height:50><text:Nothing here><GameObject//>
+<//GameObject><name:Table Vertical><id:34><X:390><Y:330><width:60><height:110><text:Thats a nice table><GameObject//>
+<//GameObject><name:Chair Left><id:28><X:465><Y:375><width:32><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Couch Left><id:32><X:960><Y:365><width:64><height:90><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Plant1><id:49><X:705><Y:535><width:32><height:32><text:It smells nice><GameObject//>
+
+//Top right bedroom
+<//GameObject><name:Single Bed><id:24><X:1150><Y:170><width:75><height:95><text:Looks comfy><GameObject//>
+<//GameObject><name:Night Stand><id:8><X:1240><Y:170><width:50><height:50><text:Nothing here><GameObject//>
+
+<//GameObject><name:Single Bed><id:24><X:1490><Y:170><width:75><height:95><text:Looks comfy><GameObject//>
+<//GameObject><name:Night Stand><id:8><X:1425><Y:170><width:50><height:50><text:Nothing here><GameObject//>
+
+<//GameObject><name:Table Horizontal><id:35><X:1380><Y:510><width:130><height:60><text:Thats a nice table><GameObject//>
+<//GameObject><name:Chair Down><id:27><X:1420><Y:475><width:32><height:32><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Plant4><id:52><X:1530><Y:530><width:32><height:32><text:It smells nice><GameObject//>
+
+//bottom right room
+<//GameObject><name:Cabinet Pots2><id:42><X:1180><Y:1185><width:128><height:128><text:Nothing here><GameObject//>
+<//GameObject><name:Small Table2><id:48><X:1350><Y:1260><width:64><height:32><text:Thats a nice table><GameObject//>
+<//GameObject><name:Table Horizontal><id:35><X:1450><Y:1280><width:130><height:60><text:Thats a nice table><GameObject//>
+<//GameObject><name:Chair Up><id:26><X:1495><Y:1350><width:32><height:32><text:I dont feel like sitting right now><GameObject//>
+
+//Bottom bedroom
+<//GameObject><name:Plant1><id:49><X:780><Y:1235><width:32><height:32><text:It smells nice><GameObject//>
+<//GameObject><name:Single Bed><id:24><X:159><Y:1115><width:75><height:95><text:Looks comfy><GameObject//>
+<//GameObject><name:Night Stand><id:8><X:250><Y:1115><width:50><height:50><text:Nothing here><GameObject//>
+
+<//GameObject><name:Single Bed><id:24><X:350><Y:1115><width:75><height:95><text:Looks comfy><GameObject//>
+<//GameObject><name:Night Stand><id:8><X:440><Y:1115><width:50><height:50><text:Nothing here><GameObject//>
+
+<//GameObject><name:Single Bed><id:24><X:650><Y:1115><width:75><height:95><text:Looks comfy><GameObject//>
+<//GameObject><name:Night Stand><id:8><X:740><Y:1115><width:50><height:50><text:Nothing here><GameObject//>
+
+<//GameObject><name:Couch Right><id:33><X:70><Y:1300><width:64><height:90><text:I dont feel like sitting right now><GameObject//>
+<//GameObject><name:Couch Up><id:30><X:195><Y:1420><width:110><height:44><text:I dont feel like sitting right now><GameObject//>

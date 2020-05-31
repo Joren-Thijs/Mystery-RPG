@@ -1,0 +1,9 @@
+<//dialogue><title:Butler:><id:0><text:Hello player,
+Welcome to villa Fisher
+If i can be of service please let me know.><jump:1,2><dialogue//>
+<//response><id:1><text: Thank You!><jump:3><response//>
+<//response><id:2><text: Go Away!><jump:4><response//>
+<//dialogue><title:Butler:><id:3><text:Your Welcome!
+Enjoy your stay!><jump:0><dialogue//>
+<//dialogue><title:Butler:><id:4><text:I am to old for this shit...
+Enjoy your whatever.><jump:0><dialogue//>

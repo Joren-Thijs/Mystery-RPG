@@ -1,0 +1,7 @@
+<//dialogue><title:Lord Fisher:><id:0><text:Hello everyone,
+Welcome to villa Fisher
+I am hosting this graceful dinner
+in celebration of the 100 year aniversary
+of this beatifull villa.
+And i am very happy to see everyone was able
+to come for this special occasion><jump:0><dialogue//>
