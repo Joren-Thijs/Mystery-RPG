@@ -1,17 +1,14 @@
-CurrentObjectivesID:1
-CurrentWorld:0
+CurrentObjectivesID:7
+CurrentWorld:2
 Player:
 Position:
-X:300.0
-Y:446.40000000000055
+X:769.7999999999993
+Y:2350.800000000001
 Direction:
-DOWN
-IsLookingAtInventory:TRUE
+LEFT
+IsLookingAtInventory:FALSE
 NoteIndex:0
 Inventory:
 Items:
-{"name":"key","id":0}
-{"name":"murderWeapon","id":1}
 Notes:
-{"title":"Note:","text":"This place is weird...","name":"PersonalNote","id":0}
-{"title":"Note:","text":"I found the murder weapon!\nAppearently the Butler did it!","name":"ImportantNote","id":1}
+{"title":"Note:","text":"Jeffrey has just been poisoned\nIf i want to leave this place i will\nhave to find out who did this","name":"Jeffrey","id":15}

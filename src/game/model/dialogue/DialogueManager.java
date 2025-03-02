@@ -22,25 +22,25 @@ public class DialogueManager {
     private boolean talking;
     
     //DialoguePaths
-    String butlerDialogue1Path = "GameFiles\\Dialogues\\Butler_Dialogue_1.txt";
-    String butlerDialogue2Path = "GameFiles\\Dialogues\\Butler_Dialogue_2.txt";
-    String sofieDialogue1Path = "GameFiles\\Dialogues\\Sofie_Dialogue_1.txt";
-    String sofieDialogue2Path = "GameFiles\\Dialogues\\Sofie_Dialogue_2.txt";
-    String suzieDialogue1Path = "GameFiles\\Dialogues\\Suzie_Dialogue_1.txt";
-    String suzieDialogue2Path = "GameFiles\\Dialogues\\Suzie_Dialogue_2.txt";
-    String jonnyDialogue1Path = "GameFiles\\Dialogues\\Jonny_Dialogue_1.txt";
-    String jonnyDialogue2Path = "GameFiles\\Dialogues\\Jonny_Dialogue_2.txt";
-    String violetDialogue1Path = "GameFiles\\Dialogues\\Violet_Dialogue_1.txt";
-    String violetDialogue2Path = "GameFiles\\Dialogues\\Violet_Dialogue_2.txt";
-    String ladyFisherDialogue1Path = "GameFiles\\Dialogues\\LadyFisher_Dialogue_1.txt";
-    String ladyFisherKeyGivingDialoguePath = "GameFiles\\Dialogues\\LadyFisherKeyGiving_Dialogue.txt";
-    String ladyFisherDialogue2Path = "GameFiles\\Dialogues\\LadyFisher_Dialogue_2.txt";
-    String lordFisherToastSceneDialoguePath = "GameFiles\\Dialogues\\LordFisherToastScene_Dialogue.txt";
-    String lordFisherBodyFoundDialoguePath = "GameFiles\\Dialogues\\LordFisherBodyFound_Dialogue.txt";
-    String lordFisherDialogue1Path = "GameFiles\\Dialogues\\LordFisher_Dialogue_1.txt";
-    String lordFisherDialogue2Path = "GameFiles\\Dialogues\\LordFisher_Dialogue_2.txt";
-    String lordFisherConfrontationDialoguePath = "GameFiles\\Dialogues\\LordFisherConfrontation_Dialogue.txt";
-    String jeffreyDialogue1Path = "GameFiles\\Dialogues\\Jeffrey_Dialogue_1.txt";
+    String butlerDialogue1Path = "GameFiles/Dialogues/Butler_Dialogue_1.txt";
+    String butlerDialogue2Path = "GameFiles/Dialogues/Butler_Dialogue_2.txt";
+    String sofieDialogue1Path = "GameFiles/Dialogues/Sofie_Dialogue_1.txt";
+    String sofieDialogue2Path = "GameFiles/Dialogues/Sofie_Dialogue_2.txt";
+    String suzieDialogue1Path = "GameFiles/Dialogues/Suzie_Dialogue_1.txt";
+    String suzieDialogue2Path = "GameFiles/Dialogues/Suzie_Dialogue_2.txt";
+    String jonnyDialogue1Path = "GameFiles/Dialogues/Jonny_Dialogue_1.txt";
+    String jonnyDialogue2Path = "GameFiles/Dialogues/Jonny_Dialogue_2.txt";
+    String violetDialogue1Path = "GameFiles/Dialogues/Violet_Dialogue_1.txt";
+    String violetDialogue2Path = "GameFiles/Dialogues/Violet_Dialogue_2.txt";
+    String ladyFisherDialogue1Path = "GameFiles/Dialogues/LadyFisher_Dialogue_1.txt";
+    String ladyFisherKeyGivingDialoguePath = "GameFiles/Dialogues/LadyFisherKeyGiving_Dialogue.txt";
+    String ladyFisherDialogue2Path = "GameFiles/Dialogues/LadyFisher_Dialogue_2.txt";
+    String lordFisherToastSceneDialoguePath = "GameFiles/Dialogues/LordFisherToastScene_Dialogue.txt";
+    String lordFisherBodyFoundDialoguePath = "GameFiles/Dialogues/LordFisherBodyFound_Dialogue.txt";
+    String lordFisherDialogue1Path = "GameFiles/Dialogues/LordFisher_Dialogue_1.txt";
+    String lordFisherDialogue2Path = "GameFiles/Dialogues/LordFisher_Dialogue_2.txt";
+    String lordFisherConfrontationDialoguePath = "GameFiles/Dialogues/LordFisherConfrontation_Dialogue.txt";
+    String jeffreyDialogue1Path = "GameFiles/Dialogues/Jeffrey_Dialogue_1.txt";
     
     //Dialogues
     Dialogue butlerDialogue1;
